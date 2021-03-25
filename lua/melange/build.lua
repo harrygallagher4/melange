@@ -62,7 +62,7 @@ function targets.kitty()
         "color6 " .. c.Type.fg,
         "color7 " .. c.Normal.fg,
         -- bright
-        "color8 " .. c.ColorColumn.bg,
+        "color8 " .. c.Comment.fg,
         "color9 " .. c.Operator.fg,
         "color10 " .. c.Question.fg,
         "color11 " .. c.Statement.fg,
